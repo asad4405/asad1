@@ -16,3 +16,4 @@ Skills: PHP / Laravel/Bootstrap/jQuery / JS / HTML / CSS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asad450)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asad450&show_icons=true)  
